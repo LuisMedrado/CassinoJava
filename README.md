@@ -36,4 +36,4 @@ Projeto **Cassino em Java**! Este é um trabalho acadêmico desenvolvido para a 
 
 ## 👨‍💻 Autores
 
-Desenvolvido por [Luís Medrado](https://github.com/LuisMedrado/), Raul Moreira, [Pedro Teixeira](https://github.com/PedroRodriguesTeixeira), [Otton Simão](https://github.com/Ottonkyu), Matheus Lopes, [Micael Martins](https://github.com/Micael-Martins), Matheus Sales, Samuel Rodrigues. 
+Desenvolvido por [Luís Medrado](https://github.com/LuisMedrado/), Raul Moreira, [Pedro Teixeira](https://github.com/PedroRodriguesTeixeira), [Otton Simão](https://github.com/Ottonkyu), Matheus Lopes, [Micael Martins](https://github.com/Micael-Martins), [Matheus Sales](https://github.com/MatheusSales2773), Samuel Rodrigues. 
