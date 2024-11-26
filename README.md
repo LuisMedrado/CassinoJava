@@ -31,3 +31,27 @@ Projeto **Cassino em Java**! Este é um trabalho acadêmico desenvolvido para a 
 
 3. **Execute o projeto**:
    - Inicie a classe principal `cassino.java`.
+
+---
+
+👨‍💻 Autores
+Desenvolvido por [Luís Medrado](https://github.com/LuisMedrado/), [Raul Moreira], [Pedro Teixeira](https://github.com/PedroRodriguesTeixeira), [Otton Simão], [Matheus Lopes], [Micael Martins](https://github.com/Micael-Martins), [Matheus Sales], [Samuel Rodrigues]. 
+
+
+
+
+- Documentação do Java: [Oracle Java Docs](https://docs.oracle.com/javase/8/docs/)
+- Swing Guide: [Java Swing Tutorial](https://www.javatpoint.com/java-swing)
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por [Seu Nome]  
+Contato: [seuemail@exemplo.com]  
+
+---
+
+🃏 **Divirta-se codificando!** ✨
+
+---
